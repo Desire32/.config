@@ -19,7 +19,7 @@
   "base_keymap": "VSCode",
 
   // === fonts ===
-  "buffer_font_family": "Lilex",
+  "buffer_font_family": "Monaco",
   "buffer_font_size": 14.0,
   "buffer_font_weight": 300,
   "buffer_line_height": "comfortable",
@@ -29,8 +29,8 @@
   },
 
   // Interface font
-  "ui_font_family": "IBM Plex Sans",
-  "ui_font_size": 14,
+  "ui_font_family": "Lilex",
+  "ui_font_size": 16,
   "ui_font_weight": 500,
 
   // (none, gutter, line, all)
@@ -156,7 +156,7 @@
     "option_as_meta": false,
     "button": true,
     "font_family": "CaskaydiaMono Nerd Font",
-    "font_size": 20,
+    "font_size": 14,
     "line_height": "comfortable",
     "toolbar": {
       "breadcrumbs": true
